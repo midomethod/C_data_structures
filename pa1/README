@@ -1,0 +1,16 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Author:	Midori Kanuma
+# CruzID:	mkanuma
+# Class:	CMPS12B/M
+# Date: 	7/3/2019
+#
+# Description: 	This is the README for programming
+# 				assignment 1
+#
+# File Name:	README
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Files included in submission:
+	1. README
+	2. Makefile
+	3. Subset.c
